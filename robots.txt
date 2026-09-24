@@ -1,0 +1,9 @@
+# Robots.txt for anweshasdigitalverse.in
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://anweshasdigitalverse.in/sitemap.xml
+
+# Disallow admin/system files
+Disallow: /scratch/
